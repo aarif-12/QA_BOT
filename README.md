@@ -36,7 +36,7 @@ Python
 
 🛠️ Setup & Installation
 1. Clone the Repository
-git clone https://github.com/your-username/rag-pdf-chatbot.git
+git clone https://github.com/aarif-12/QA_BOT/blob/main/qabot.py
 cd rag-pdf-chatbot
 
 2. Create & Activate Virtual Environment
